@@ -1,3 +1,5 @@
+
+//final decoding code (raspberry pi pico)
 #define PIN 16
 #define led1 2
 #define led2 3

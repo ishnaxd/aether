@@ -2,7 +2,8 @@ int  RELAIS=28;
 int led1 =2;
 int led2 =3;
 int led3 =4;
-
+//basic code for checking the lock system
+// no algorithm involved
 void setup() {
   pinMode(RELAIS,OUTPUT);
   pinMode(led1,OUTPUT);
